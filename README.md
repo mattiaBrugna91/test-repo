@@ -1,1 +1,1 @@
-Generazione casuale di 10 numeri con la libreria numpy di python
+### Generazione casuale di una matrice di 2 *20 numeri con la libreria numpy di python
